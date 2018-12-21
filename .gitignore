@@ -1,0 +1,7 @@
+target/
+.ipynb_checkpoints
+notebooks/workspace/
+archived-notebooks/workspace/
+.Trash-1000/
+.nrepl-port
+.lein-repl-history
